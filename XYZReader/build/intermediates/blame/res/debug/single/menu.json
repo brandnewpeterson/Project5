@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/brandnewpeterson/Downloads/xyzreader (1)/XYZReader/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/brandnewpeterson/Downloads/xyzreader (1)/XYZReader/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/brandnewpeterson/Downloads/xyzreader (1)/XYZReader/build/intermediates/res/merged/debug/menu/article_detail_fragment_menu.xml",
+        "source": "/Users/brandnewpeterson/Downloads/xyzreader (1)/XYZReader/src/main/res/menu/article_detail_fragment_menu.xml"
+    }
+]
